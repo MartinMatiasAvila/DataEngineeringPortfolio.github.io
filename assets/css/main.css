@@ -1950,11 +1950,12 @@ button,
         margin-bottom: 0;
         padding-bottom: 0; }
     #sidebar > .inner > .alt {
-      background-color: #eff1f2;
-      border-bottom: 0;
-      margin: -2.22222em 0 4.44444em -2.22222em;
-      padding: 2.22222em;
-      width: calc(100% + 4.44444em); }
+        background-color: #3F404C;
+        border-bottom: 0;
+        margin: -2.22222em 0 4.44444em -2.22222em;
+        padding: 2.22222em;
+        width: calc(100% + 4.44444em);
+    }
   #sidebar .toggle {
     text-decoration: none;
     -moz-transition: left 0.5s ease;
